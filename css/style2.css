@@ -1,0 +1,138 @@
+.header{
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+    width:100%
+}
+.mr-auto ul{
+    font-family: 'Boogaloo', cursive;
+}
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+.text-center
+{
+margin-top:130px;
+padding-bottom:20px;
+font-family:'Boogaloo', cursive;
+height: 180px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.carousel-slide
+{
+    margin-bottom: 200px;
+    
+}
+.mb-3{
+    margin-top: 30px;
+    
+}
+.card-body{
+    border:solid 1px lightblue;
+    padding:20px;
+    text-align:center; 
+    font-family: 'Boogaloo', cursive;
+    background-color: darkgrey;
+
+}
+.card-body h1{
+    color: brown;
+}
+.card-body ul{
+    list-style-type: none;
+    font-size: 28px;
+}
+.container-fluid{
+    margin-top: 20px;
+}
+
+#row1{
+    width:450px;
+    height:450px;
+    text-align: center;
+    background-color:ghostwhite;
+    font-family: 'Boogaloo', cursive;
+}
+#row2{
+    width:450px;
+    height:450px;
+    text-align: center;
+    background-color:cadetblue;
+    font-family: 'Boogaloo', cursive;
+}
+#row3{
+    width:450px;
+    height:450px;
+    text-align: center;
+    background-color:cadetblue;
+    font-family: 'Boogaloo', cursive;
+}
+#row4{
+    width:450px;
+    height:450px;
+    text-align: center;
+    background-color:ghostwhite;
+    font-family: 'Boogaloo', cursive;
+}
+.footer{
+    background-color:rgb(223, 164, 121);
+    margin-top: 15px;
+    height: 180px;
+    font-family: 'Boogaloo', cursive;
+    
+}
+.footer li{
+    display: inline;
+    padding-right: 15px;
+    font-size: 20px;
+}
+.modal-container {
+    margin-left: 700px;
+    
+  }
+.icons ul{
+    float:right;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+   .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .copyright{
+      margin-left: 30px;
+      font-size: 20px;
+  }
+  .site{
+      margin-left: 150px;
+      font-size: 20px;
+  }
+  
