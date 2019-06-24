@@ -4,6 +4,7 @@
     top: 0%;
     width:100%
 }
+/* fixed header */
 .mr-auto ul{
     font-family: 'Boogaloo', cursive;
 }
@@ -14,11 +15,12 @@
 }
 .text-center
 {
-margin-top:130px;
+margin-top:110px;
 padding-bottom:20px;
 font-family:'Boogaloo', cursive;
 height: 180px;
 }
+/* jubmbotron styles */
 
 .carousel-inner img {
     width: 100%;
@@ -33,6 +35,7 @@ height: 180px;
     margin-top: 30px;
     
 }
+/* carousel styles */
 .card-body{
     border:solid 1px lightblue;
     padding:20px;
@@ -48,6 +51,7 @@ height: 180px;
     list-style-type: none;
     font-size: 28px;
 }
+/* tabbed pane styles */
 .container-fluid{
     margin-top: 20px;
 }
@@ -80,6 +84,7 @@ height: 180px;
     background-color:ghostwhite;
     font-family: 'Boogaloo', cursive;
 }
+/* grid css */
 .footer{
     background-color:rgb(223, 164, 121);
     margin-top: 15px;
@@ -135,4 +140,6 @@ height: 180px;
       margin-left: 150px;
       font-size: 20px;
   }
+  /* end of footer  */
+  /* social media icons css */
   
