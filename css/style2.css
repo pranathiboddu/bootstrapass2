@@ -9,16 +9,14 @@
     font-family: 'Boogaloo', cursive;
 }
 
-.main {
-    width: 50%;
-    margin: 50px auto;
-}
 .text-center
 {
 margin-top:110px;
 padding-bottom:20px;
 font-family:'Boogaloo', cursive;
-height: 180px;
+height: 50%;
+width:100%;
+margin-left: 0px;
 }
 /* jubmbotron styles */
 
@@ -42,9 +40,14 @@ height: 180px;
     text-align:center; 
     font-family: 'Boogaloo', cursive;
     background-color: darkgrey;
+    width: 100%;
 
 }
-.card-body h1{
+.card-body img{
+    width:250px;
+    height:300px;
+}
+.card-bod  h1{
     color: brown;
 }
 .card-body ul{
@@ -55,60 +58,61 @@ height: 180px;
 .container-fluid{
     margin-top: 20px;
 }
-
+.row img{
+    margin-bottom: 10px;
+}
 #row1{
-    width:450px;
-    height:450px;
+
     text-align: center;
-    background-color:ghostwhite;
+    background-color:rgb(156, 139, 132);
     font-family: 'Boogaloo', cursive;
 }
 #row2{
-    width:450px;
-    height:450px;
+  
     text-align: center;
     background-color:cadetblue;
     font-family: 'Boogaloo', cursive;
+    
 }
 #row3{
-    width:450px;
-    height:450px;
+   
     text-align: center;
     background-color:cadetblue;
     font-family: 'Boogaloo', cursive;
 }
 #row4{
-    width:450px;
-    height:450px;
+
     text-align: center;
-    background-color:ghostwhite;
-    font-family: 'Boogaloo', cursive;
+    background-color:rgb(156, 139, 132);
+            font-family: 'Boogaloo', cursive;
 }
 /* grid css */
 .footer{
     background-color:rgb(223, 164, 121);
     margin-top: 15px;
-    height: 180px;
+    height:250px;
     font-family: 'Boogaloo', cursive;
-    
+    width:100%;
+    margin-bottom: 0%;
 }
 .footer li{
     display: inline;
     padding-right: 15px;
     font-size: 20px;
 }
-.modal-container {
-    margin-left: 700px;
-    
-  }
+.modal-container{
+    margin-left: 50%;
+    vertical-align:text-top;
+    font-size: 20px;
+}
 .icons ul{
     float:right;
 }
 
 .fa {
-    padding: 20px;
-    font-size: 20px;
-    width: 50px;
+    padding: 5px;
+    font-size: 15px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
@@ -134,12 +138,11 @@ height: 180px;
   }
   .copyright{
       margin-left: 30px;
-      font-size: 20px;
+      font-size: 15px;
   }
   .site{
-      margin-left: 150px;
-      font-size: 20px;
+      margin-left: 30px;
+      font-size: 15px;
   }
   /* end of footer  */
   /* social media icons css */
-  
